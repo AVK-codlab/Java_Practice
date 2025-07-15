@@ -12,9 +12,9 @@ Welcome to my Java practice repository! This collection includes beginner to int
 - 🧪 Practice During Learning  
 - 🔁 Daily Problem Solving
 
-🛠 Tools Used
+🛠 Tools Used:
 - Language: Java 17+
 - IDE: Eclipse
 
-🙌 Contributions
+🙌 Contributions:
 This is a personal learning project. Suggestions and feedback are always welcome!
