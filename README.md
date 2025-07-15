@@ -17,4 +17,5 @@ Welcome to my Java practice repository! This collection includes beginner to int
 - IDE: Eclipse
 
 🙌 Contributions:
+
 This is a personal learning project. Suggestions and feedback are always welcome!
